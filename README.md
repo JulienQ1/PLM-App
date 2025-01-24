@@ -1,5 +1,5 @@
 # Agricultural Drone PLM System
-grand-pasca-ac460a.netlify.app
+
 A comprehensive Product Lifecycle Management (PLM) system designed specifically for Agricultural Spraying Drones. This system helps manage the entire lifecycle of drone products, from design and development to maintenance and support.
 
 ## Features
