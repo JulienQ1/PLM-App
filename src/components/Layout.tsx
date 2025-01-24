@@ -57,7 +57,7 @@ export default function Layout({ children }: LayoutProps) {
                   alt="Profile"
                   className="w-8 h-8 rounded-full"
                 />
-                <span className="font-medium">John Doe</span>
+                <span className="font-medium">Julien Quenneville</span>
               </div>
             </div>
           </div>
